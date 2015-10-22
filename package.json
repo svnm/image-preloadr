@@ -1,0 +1,30 @@
+{
+  "name": "image-preloadr",
+  "version": "1.0.0",
+  "description": "preloads an array of images to the dom at the bottom of the body element",
+  "main": "image-preloadr.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StevenIseki/image-preloadr.git"
+  },
+  "keywords": [
+    "image load",
+    "image loader",
+    "pre load",
+    "javascript image pre-loader",
+    "javascript image pre loader",
+    "javascript image load",
+    "javascript image preload",
+    "image-preloadr"
+  ],
+  "author": "Steven Iseki",
+  "license": "MIT",
+  "homepage": "https://github.com/StevenIseki/image-preloadr.git",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  }
+}
