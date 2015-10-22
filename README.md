@@ -1,6 +1,6 @@
 ## image-preloadr
 
-[![npm version](https://badge.fury.io/js/detectie.svg)](https://badge.fury.io/js/detectie)
+[![npm version](https://badge.fury.io/js/image-preloadr.svg)](https://badge.fury.io/js/image-preloadr)
 
 preloads an array of images to the dom at the bottom of the body element
 
